@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## 欢迎来到Ycloud
 
-You can use the [editor on GitHub](https://github.com/keda666666/blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+您可以使用我们我们的产品来进行生成免费的建筑。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+当您使用我们的产品时，则视为同意所有用户协议。
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### 指令
+您还不知道我们的指令吗？
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+/connect www.ymstrip.top
 ```
+请记住他，另外，我们的唯一QQ群为:805930071
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### 写在最后
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/keda666666/blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+版权所有©Ycloud 2019-2020
